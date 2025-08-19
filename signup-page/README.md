@@ -1,1 +1,4 @@
-Read
+email, 
+firstName,
+lastName,
+profilePic
